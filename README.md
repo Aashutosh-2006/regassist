@@ -1,1 +1,1 @@
-# RegAssist - AI assistant for UK financial egulation (in progress)
+# RegAssist - AI assistant for UK financial Regulation (in progress)
